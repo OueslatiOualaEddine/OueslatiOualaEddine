@@ -10,9 +10,10 @@ Hi there! 👋 I'm Oueslati Ouala Eddine, a passionate Data Scientist and Softwa
 | **🤖 AI & Machine Learning** | Enhancing AI/ML skills through advanced training programs                 |
 | **🗣️ Soft Skills**       | Strong communication, teamwork, mentoring abilities in diverse environments |
 
-### 🎓 Education
-- **🎓 Master's Degree in Data Science**: Delving deep into data analysis, machine learning, and advanced computational techniques.
-- **📜 License Degree**: Comprehensive education, including several soft skills modules.
+### 📚 Educational Journey
+- **📖 Master's Degree in Data Science and Software Development**: ⌚ In Progress
+- **📜 License Degree in Business Computing, specialized in Business Information Systems**: 🎓 Completed 
+
 
 ### 🤝 Associative Work
 As a member of **Joker ESEN** (founded in 2016), I collaborated with fellow members to foster creativity 🎨, emotional intelligence 💡, and knowledge 📚. Together, we organized events like conferences and competitions 🏆, and engaged in personal development to achieve goals and unlock potential 🚀. This teamwork enhanced student life and supported our shared mission of growth 🌟.
