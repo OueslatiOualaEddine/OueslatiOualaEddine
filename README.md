@@ -23,9 +23,7 @@ As a member of **Joker ESEN** (founded in 2016), I collaborated with fellow memb
 - 🤝 **Mentorship**: Passionate about guiding others and helping them grow.
 - 🏆 **Hackathons and Challenges**: Thrives in competitive environments that foster creativity and problem-solving.
 
-## 📫 Contact Me
-- **🌐 Portfolio**: [My Website](https://sites.google.com/view/oueslatioualaeddine/experience/associative)
-- **🔗 LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/ouala-eddine-oueslati-035544244/)
-
 ## 🌟 Let's Collaborate!
-If you're interested in collaborating on innovative projects, hackathons or just want to chat, feel free to reach out!
+### 🌟 Let's Collaborate!
+
+I'm always excited to connect and collaborate on innovative projects, hackathons, or just to chat! 🤝 You can reach out through [my portfolio](https://sites.google.com/view/oueslatioualaeddine/experience/associative) or connect with me on [LinkedIn](https://www.linkedin.com/in/ouala-eddine-oueslati-035544244/). Let’s make something amazing together! 🚀
