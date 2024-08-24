@@ -1,7 +1,5 @@
 # 🚀 Oueslati Ouala Eddine - Data Scientist & Software Developer
 
-### 👋 About Me
-
 Hi there! 👋 I'm Oueslati Ouala Eddine, a passionate Data Scientist and Software Developer with a knack for solving complex problems and building innovative solutions. From AI 🤖 to Mobile App Development 📱, my journey in the tech world has been driven by curiosity and a love for learning.
 
 ### 🛠️ Skills & Expertise
@@ -20,14 +18,7 @@ Hi there! 👋 I'm Oueslati Ouala Eddine, a passionate Data Scientist and Softwa
 
 ### 🤝 Associative Work
 
-As a dedicated member of **Joker ESEN**, a university club founded within ESEN in 2016, I’ve had the privilege to contribute to the club’s mission of empowering students. Joker ESEN, established by Ben Chrayet Achref, Naffeti Tarek, and Salhi Ibtissem, focuses on fostering creativity, emotional intelligence, and broadening the general knowledge of its members.
-
-#### My Contributions:
-- **Mentorship and Training**: I actively mentored students in areas such as Graphic Design, Web Development, Robotics, and Programming. My role involved delivering sessions that not only enhanced technical skills but also promoted personal growth and creativity.
-- **Event Organization**: I was instrumental in organizing and participating in various club events, including conferences, competitions, and initiatives aimed at enriching student life.
-- **Personal Development**: I engaged in personal development activities, helping members achieve their goals, recognize their potential, and develop their unique talents.
-
-Through these activities, I supported Joker ESEN's goal of enhancing student life by preparing members for professional success and fostering a culture of innovation and personal excellence.
+As a member of **Joker ESEN** (founded in 2016), I actively contributed to a team effort aimed at empowering and supporting fellow members. Our collaborative environment fostered creativity 🎨, emotional intelligence 💡, and expanded knowledge 📚. Together, we organized impactful events like conferences and competitions 🏆, and engaged in personal development to help each other achieve goals and unlock our potential 🚀. This teamwork enhanced student life and supported our shared mission of growth and innovation 🌟.
 
 
 ## 🌱 Interests and Hobbies
@@ -40,4 +31,4 @@ Through these activities, I supported Joker ESEN's goal of enhancing student lif
 - **🔗 LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/ouala-eddine-oueslati-035544244/)
 
 ## 🌟 Let's Collaborate!
-If you're interested in collaborating on innovative projects or just want to chat about the latest in Data Science and AI, feel free to reach out!
+If you're interested in collaborating on innovative projects, hackathons or just want to chat, feel free to reach out!
