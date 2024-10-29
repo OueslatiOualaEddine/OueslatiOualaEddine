@@ -1,6 +1,6 @@
-# 🚀 Oueslati Ouala Eddine - Data Scientist & Software Developer
+# 🚀 Oueslati Ouala Eddine - Junior Data Scientist
 
-Hi there! 👋 I'm Oueslati Ouala Eddine, a passionate Data Scientist and Software Developer with a knack for solving complex problems and building innovative solutions. From AI 🤖 to Mobile App Development 📱, my journey in the tech world has been driven by curiosity and a love for learning.
+Hi there! 👋 I'm Oueslati Ouala Eddine, a passionate Data Scientist with a knack for solving complex problems and building innovative solutions. From AI 🤖 to BigData technologies 🏬, my journey in the tech world has been driven by curiosity and a love for learning.
 
 ### 🛠️ Skills & Expertise
 | **Skill**               | **Details**                                                                 |
