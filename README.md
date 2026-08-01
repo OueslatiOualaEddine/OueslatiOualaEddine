@@ -34,23 +34,18 @@ I'm currently an **AI Engineer at JeelQuest** 🏢, a startup in Tunisia, where 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23F05033.svg?style=for-the-badge&logo=github&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
 
 
-### 📚 Educational Journey
+### 📚 Educational Journey at ESEN Manouba :
 
-- **📜 Professional Master's Degree in Data Science and Software Development** — ESEN, University of Manouba — 🎓 Completed 2025
+- **📜 Professional Master's Degree in Data Science and Software Development** — 🎓 Completed 2025
 - **📜 License Degree in Business Computing**, specialized in Business Information Systems — 🎓 Completed 2023
 
 ### 🏆 Hackathons & Competitions
@@ -59,20 +54,20 @@ I'm an active hackathon competitor across both technical (coding/AI) and entrepr
 
 <table align="center">
   <tr>
-    <td align="center" width="180">
+    <td align="center" width="200">
       <b>🥇 1st Place</b><br>
       <b>ZidÉpargni</b><br>
-      Hacker l'Épargne (Enda) 2026
+      Hacker l'Épargne 2026
     </td>
     <td align="center" width="180">
       <b>🥇 1st Place</b><br>
       <b>Verdeau</b><br>
-      GreenMinds (Enda) 2025
+      GreenMinds 2025
     </td>
-    <td align="center" width="180">
+    <td align="center" width="200">
       <b>🥉 3rd Place</b><br>
       <b>Data Eng Competition</b><br>
-      HACK4DATA (ESEN) 2024
+      HACK4DATA 2024
     </td>
     <td align="center" width="180">
       <b>🎯 4th Place</b><br>
