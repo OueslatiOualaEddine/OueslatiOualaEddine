@@ -61,35 +61,35 @@ I'm an active hackathon competitor across both technical (coding/AI) and entrepr
   <tr>
     <td align="center" width="180">
       <b>🥇 1st Place</b><br>
-      <sub><b>ZidÉpargni</b></sub><br>
-      <sub>Hacker l'Épargne (Enda) 2026</sub>
+      <b>ZidÉpargni</b><br>
+      Hacker l'Épargne (Enda) 2026
     </td>
     <td align="center" width="180">
       <b>🥇 1st Place</b><br>
-      <sub><b>Verdeau</b></sub><br>
-      <sub>GreenMinds (Enda) 2025</sub>
+      <b>Verdeau</b><br>
+      GreenMinds (Enda) 2025
     </td>
     <td align="center" width="180">
       <b>🥉 3rd Place</b><br>
-      <sub><b>Data Eng Competition</b></sub><br>
-      <sub>HACK4DATA (ESEN) 2024</sub>
+      <b>Data Eng Competition</b><br>
+      HACK4DATA (ESEN) 2024
     </td>
     <td align="center" width="180">
       <b>🎯 4th Place</b><br>
-      <sub><b>StriveAI</b></sub><br>
-      <sub>Seneca Hacks 2025</sub>
+      <b>StriveAI</b><br>
+      Seneca Hacks 2025
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
       <b>🏅 Top 12 Finalist</b><br>
-      <sub><b>VetMyPet</b> — AI for Stray Animal Welfare</sub><br>
-      <sub>Hackathon en IA (UVT) 2024</sub>
+      <b>VetMyPet</b> — AI for Stray Animal Welfare<br>
+      Hackathon en IA (UVT) 2024
     </td>
     <td align="center" colspan="2">
       <b>🏅 Top 18 Finalist</b><br>
-      <sub><b>Insurance Bundle Recommender</b></sub><br>
-      <sub>DataQuest 2026</sub>
+      <b>Insurance Bundle Recommender</b><br>
+      DataQuest 2026
     </td>
   </tr>
 </table>
