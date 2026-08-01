@@ -35,12 +35,6 @@ I'm an active hackathon competitor across both technical (coding/AI) and entrepr
 
 Longtime member (and past officer) of **Club Joker ESEN** (founded 2016), spanning multimedia, event organization, sponsoring, and AI training. Together, we've organized conferences, competitions 🏆, and personal development initiatives to enhance student life and unlock potential 🌟.
 
-### 🌱 Beyond the Code
-
-- 📖 **Kids Playground** — a children's educational book series on Amazon KDP
-- 🎥 **RewindLegacy** — a YouTube channel concept exploring brand evolution
-- 🤝 **Mentorship** — passionate about guiding others and helping them grow
-
 ### 🌟 Let's Collaborate!
 
 I'm always excited to connect and collaborate on innovative projects, hackathons, or just to chat! 🤝<br>
