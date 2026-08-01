@@ -1,6 +1,7 @@
-# 🚀 Oueslati Ouala Eddine - AI Engineer 🤖🧬
+# 🚀 Step Into the Lab Where Ideas Get Built 🤖🧬
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&width=435&lines=Data+Scientist+%7C+AI+Engineer+%7C+LLM+Evaluator;Tech+Enthusiastic+%26+Hackathon+Warrior;RAG+Pipelines+%7C+Knowledge+Graph+%7C+API+Integration;AI+Automation+%7C+Agentic+AI+%7C+Blockchain;Let's+Team+Up+for+a+Hackathon+!;Open+to+AI+%26+Data+Roles)](https://git.io/typing-svg)
+Hi there! 👋 I'm Oueslati Ouala Eddine, an AI Engineer @ JeelQuest, Python Developer, Tech Enthusiast, and a Hackathon Warrior.I work across RAG pipelines, knowledge graphs, and API integration 🔍, with a growing focus on AI automation, agentic AI, and  ⚙️. Always up for teaming up on a hackathon 🤝 — and currently open to AI & Data roles 🚀.
+
 
 ### 💼 What I Do
 
@@ -14,11 +15,11 @@ I'm currently an **AI Engineer at JeelQuest** 🏢, a startup in Tunisia, where 
 | **Skill**                     | **Details**                                                                 |
 |--------------------------------|-----------------------------------------------------------------------------|
 | **🤖 LLM & GenAI Engineering** | RAG pipelines, hybrid search, prompt engineering, LLM/embedding evaluation |
-| **📊 Data Science**            | Analyzing data, building models, making data-driven decisions               |
+| **📊 Data Science**            | Analyzing data, Training models, Building data-driven solutions               |
 | **💻 Software Development**    | Developing dynamic web and mobile applications                              |
 | **🗣️ Soft Skills**             | Strong communication, teamwork, mentoring abilities in diverse environments |
 
-<div align="center"> <img src="https://skillicons.dev/icons?i=ts,react,angular,dart,flutter,py,sklearn,pytorch,tensorflow,flask,anaconda,bots,mongodb,docker&theme=dark" /> </div> <br> <table align="center"> <tr> <td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=ts,react,angular,dart,flutter,py,sklearn,pytorch,tensorflow,flask,anaconda,bots,mongodb,docker&theme=dark" />
 
 ### 📚 Educational Journey
 
