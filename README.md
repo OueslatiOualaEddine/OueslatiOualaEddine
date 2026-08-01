@@ -1,13 +1,13 @@
 # 🚀 Oueslati Ouala Eddine - AI Engineer 🤖🧬
 
-Hi there! 👋 I'm Oueslati Ouala Eddine, an AI Engineer passionate about building and benchmarking LLM-powered applications. From RAG pipelines 🔍 to hybrid search architectures ⚙️, my journey in the tech world is driven by curiosity, competition, and a love for shipping things that work.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&width=435&lines=Data+Scientist+%7C+AI+Engineer+%7C+LLM+Evaluator;Tech+Enthusiastic+%26+Hackathon+Warrior;RAG+Pipelines+%7C+Knowledge+Graph+%7C+API+Integration;AI+Automation+%7C+Agentic+AI+%7C+Blockchain;Let's+Team+Up+for+a+Hackathon+!;Open+to+AI+%26+Data+Roles)](https://git.io/typing-svg)
 
 ### 💼 What I Do
 
 I'm currently an **AI Engineer at JeelQuest** 🏢, a startup in Tunisia, where I transitioned after completing my end-of-studies internship there. My work centers on:
 - Designing and evaluating **RAG pipelines** for real-world applications
-- Building **hybrid search architectures** (dense + sparse retrieval)
 - Benchmarking **LLMs and embedding models** across diverse configurations
+- Building and Integrating **AI Features** to solve Buisinesses problems
 
 ### 🛠️ Skills & Expertise
 
@@ -17,6 +17,8 @@ I'm currently an **AI Engineer at JeelQuest** 🏢, a startup in Tunisia, where 
 | **📊 Data Science**            | Analyzing data, building models, making data-driven decisions               |
 | **💻 Software Development**    | Developing dynamic web and mobile applications                              |
 | **🗣️ Soft Skills**             | Strong communication, teamwork, mentoring abilities in diverse environments |
+
+<div align="center"> <img src="https://skillicons.dev/icons?i=ts,react,angular,dart,flutter,py,sklearn,pytorch,tensorflow,flask,anaconda,bots,mongodb,docker&theme=dark" /> </div> <br> <table align="center"> <tr> <td width="50%" valign="top">
 
 ### 📚 Educational Journey
 
