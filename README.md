@@ -3,7 +3,7 @@
 Hi there! 👋 I'm Oueslati Ouala Eddine, an AI Engineer @ JeelQuest, Python Developer, Tech Enthusiast, and a Hackathon Warrior.I work across RAG pipelines, knowledge graphs, and API integration 🔍, with a growing focus on AI automation, agentic AI, and  ⚙️. Always up for teaming up on a hackathon 🤝 — and currently open to AI & Data roles 🚀.
 
 [![Let's Team Up !](https://img.shields.io/badge/Let's%20Team%20Up%20!-LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/ouala-eddine-oueslati/)
-[![Hire Me](https://img.shields.io/badge/Hire%20Me-CV--Resume-D14836?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1aqa7lmb5S81ROYG82LKbQucHzHDc2Fee/view)
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-CV--Resume-D14836?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1S5rrocehBPAszC-eMXkISfNFzHOzgEV5/view?usp=sharing)
 [![Learn More](https://img.shields.io/badge/Learn%20More-Portfolio-green?style=for-the-badge&logoColor=white)](https://sites.google.com/view/oueslatioualaeddine/)
 
 ### 💼 What I Do
