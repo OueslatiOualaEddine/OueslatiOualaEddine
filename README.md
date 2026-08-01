@@ -1,27 +1,47 @@
-# 🚀 Oueslati Ouala Eddine - Junior Data Scientist 📊🧬
+# 🚀 Oueslati Ouala Eddine - AI Engineer 🤖🧬
 
-Hi there! 👋 I'm Oueslati Ouala Eddine, a passionate Data Scientist with a knack for solving complex problems and building innovative solutions. From AI 🤖 to BigData technologies 🏬, my journey in the tech world has been driven by curiosity and a love for learning.
+Hi there! 👋 I'm Oueslati Ouala Eddine, an AI Engineer passionate about building and benchmarking LLM-powered applications. From RAG pipelines 🔍 to hybrid search architectures ⚙️, my journey in the tech world is driven by curiosity, competition, and a love for shipping things that work.
+
+### 💼 What I Do
+
+I'm currently an **AI Engineer at JeelQuest** 🏢, a startup in Tunisia, where I transitioned after completing my end-of-studies internship there. My work centers on:
+- Designing and evaluating **RAG pipelines** for real-world applications
+- Building **hybrid search architectures** (dense + sparse retrieval)
+- Benchmarking **LLMs and embedding models** across diverse configurations
 
 ### 🛠️ Skills & Expertise
-| **Skill**               | **Details**                                                                 |
-|-------------------------|-----------------------------------------------------------------------------|
-| **📊 Data Science**      | Analyzing data, building models, making data-driven decisions               |
-| **💻 Software Development** | Developing dynamic web and mobile applications                           |
-| **🤖 AI & Machine Learning** | Enhancing AI/ML skills through advanced training programs                 |
-| **🗣️ Soft Skills**       | Strong communication, teamwork, mentoring abilities in diverse environments |
+
+| **Skill**                     | **Details**                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| **🤖 LLM & GenAI Engineering** | RAG pipelines, hybrid search, prompt engineering, LLM/embedding evaluation |
+| **📊 Data Science**            | Analyzing data, building models, making data-driven decisions               |
+| **💻 Software Development**    | Developing dynamic web and mobile applications                              |
+| **🗣️ Soft Skills**             | Strong communication, teamwork, mentoring abilities in diverse environments |
 
 ### 📚 Educational Journey
-- **📖 Master's Degree in Data Science and Software Development**: ⌚ In Progress
-- **📜 License Degree in Business Computing, specialized in Business Information Systems**: 🎓 Completed 
 
+- **📜 Professional Master's Degree in Data Science and Software Development** — ESEN, University of Manouba — 🎓 Completed
+- **📜 License Degree in Business Computing**, specialized in Business Information Systems — 🎓 Completed
+
+### 🏆 Hackathons & Competitions
+
+I'm an active hackathon competitor across both technical (coding/AI) and entrepreneurship formats — a few highlights:
+- 🥇 **1st Place** — Zid, a smart savings app (Hacker l'Épargne 2026)
+- 🏅 **Top 18 Finalist** — Insurance Bundle Recommender (DataQuest 2026)
+- 🎯 **4th Place** — StriveAI (Seneca Hacks 2025)
+- ...plus 10+ hackathons and counting 🚀
 
 ### 🤝 Associative Work
-As a member of **Joker ESEN** (founded in 2016), I collaborated with fellow members to foster creativity 🎨, emotional intelligence 💡, and knowledge 📚. Together, we organized events like conferences and competitions 🏆, and engaged in personal development to achieve goals and unlock potential 🚀. This teamwork enhanced student life and supported our shared mission of growth 🌟.
 
-### 🌱 Interests and Hobbies
-- 📚 **Continuous Learning**: Always exploring new technologies and methodologies.
-- 🤝 **Mentorship**: Passionate about guiding others and helping them grow.
-- 🏆 **Hackathons and Challenges**: Thrives in competitive environments that foster creativity and problem-solving.
+Longtime member (and past officer) of **Club Joker ESEN** (founded 2016), spanning multimedia, event organization, sponsoring, and AI training. Together, we've organized conferences, competitions 🏆, and personal development initiatives to enhance student life and unlock potential 🌟.
+
+### 🌱 Beyond the Code
+
+- 📖 **Kids Playground** — a children's educational book series on Amazon KDP
+- 🎥 **RewindLegacy** — a YouTube channel concept exploring brand evolution
+- 🤝 **Mentorship** — passionate about guiding others and helping them grow
 
 ### 🌟 Let's Collaborate!
-I'm always excited to connect and collaborate on innovative projects, hackathons, or just to chat! 🤝<br> You can reach out through 🌐[my portfolio](https://sites.google.com/view/oueslatioualaeddine/experience/associative) or connect with me on 🔗[LinkedIn](https://www.linkedin.com/in/ouala-eddine-oueslati-035544244/). Let’s make something amazing together! 🚀
+
+I'm always excited to connect and collaborate on innovative projects, hackathons, or just to chat! 🤝<br>
+Reach out through 🌐 [my portfolio](https://sites.google.com/view/oueslatioualaeddine/experience/associative) or connect with me on 🔗 [LinkedIn](https://www.linkedin.com/in/ouala-eddine-oueslati-035544244/). Let's make something amazing together! 🚀
